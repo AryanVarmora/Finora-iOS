@@ -3,7 +3,7 @@
 **Smarter spending. Brighter future.**
 
 Finora is a modern and intelligent iOS expense tracking application built with SwiftUI, Core Data, and REST API integration. It empowers users to take control of their finances by tracking daily expenses, visualizing spending patterns, converting currencies in real-time, and managing financial habits efficiently.
-
+ 
 ---
 
 ## ✨ Features
