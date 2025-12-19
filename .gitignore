@@ -1,0 +1,35 @@
+Finora/.DS_Store
+# Xcode
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+DerivedData/
+.build/
+build/
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+EOF
+
+# For backend .gitignore
+cat > Finora/backend/.gitignore << 'EOF'
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
